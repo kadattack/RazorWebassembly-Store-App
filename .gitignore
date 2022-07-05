@@ -1,0 +1,10 @@
+/Server/bin
+/Server/obj
+
+/Client/bin
+/Client/obj
+
+/Shared/bin
+/Shared/obj
+
+/.idea
