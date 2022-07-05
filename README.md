@@ -11,4 +11,4 @@ The template used was created with `dotnet new blazorwasm -o <AppName> -ho`. Thi
 As this is a simple tutorial intended for learning it uses a simple Sqlite file to store data.
 
 
-[image](https://github.com/kadattack/RazorWebassembly-Store-App/blob/main/Screenshot%20from%202022-07-05%2017-20-09.png)
+![image](https://github.com/kadattack/RazorWebassembly-Store-App/blob/main/Screenshot%20from%202022-07-05%2017-20-09.png)
